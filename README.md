@@ -1,1 +1,1 @@
-# VJIT-DSS-AI-ML
+# AI-ML
